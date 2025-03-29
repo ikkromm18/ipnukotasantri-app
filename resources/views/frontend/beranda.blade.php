@@ -5,6 +5,8 @@
 
     <x-jumbotron />
 
+    <x-description />
+
 
 
 @endsection

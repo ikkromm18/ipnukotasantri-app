@@ -26,5 +26,5 @@
 
         </div>
     </div>
-    {{-- <div class="bg-green-700 text-white py-8">SOsmen</div> --}}
+
 </section>
