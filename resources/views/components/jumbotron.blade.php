@@ -1,37 +1,30 @@
-<section class="bg-white dark:bg-gray-900">
-    <div class="mx-auto max-w-screen-xl flex">
+<section id="hero" class="bg-[#E3FDF7] dark:bg-gray-900 pt-32"
+    style="background-image: url('../images/ornamen.png'); background-size: auto;  background-position: center;
+    background-repeat: no-repeat; ">
+    <div class="mx-auto max-w-screen-xl flex flex-col md:flex-row">
 
-        <div class="text-left w-3/5  flex flex-col justify-center">
+        <div class=" w-full md:w-3/5  flex flex-col justify-center mx-auto md:p-0 p-4 items-center md:items-baseline">
+            <div class="mb-4">
+                <img src="./images/santrijurnalis.png" class="h-8 md:h-10" alt="">
+            </div>
             <h1
-                class="mb-4 text-left text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
-                Selamat Datang Di Website IPNU Kota Santri</h1>
-            <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl  dark:text-gray-400">
-                IPNU Kota Santri adalah wadah bagi pelajar dan santri di Kabupaten Pekalongan untuk belajar,
-                berorganisasi,
-                dan berkontribusi dalam masyarakat melalui berbagai kegiatan positif</p>
+                class="mb-4 text-center md:text-left text-2xl leading-10 md:leading-20 w-12/12 font-extrabold tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+                Selamat Datang Rekan's di Di Website IPNU Kota Santri</h1>
+            <p class="mb-8 text-lg md:text-2xl font-semibold text-gray-500  dark:text-gray-400">
+                IPNU Kota Santri : Ananta Digdaya Guna</p>
             <div class="flex flex-col space-y-4 sm:flex-row sm:space-y-0">
-                <a href="#"
-                    class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
-                    Get started
-                    <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
-                        fill="none" viewBox="0 0 14 10">
-                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M1 5h12m0 0L9 1m4 4L9 9" />
-                    </svg>
-                </a>
-                <a href="#"
-                    class="py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
-                    Learn more
-                </a>
+
+                <x-primary-button link="#" text="Baca Berita" />
+
             </div>
         </div>
 
-        <div class=" w-2/5 flex justify-center">
-            <div class="w-96">
+        <div class="md:w-2/5 w-full md:p-0 px-4 pt-4 md:pt-0 flex justify-center mx-auto md:mx-0">
+            <div class="w-[30rem]">
                 <img src="./images/cukup.png" alt="">
             </div>
 
         </div>
     </div>
-    <div class="bg-green-700 text-white py-8">SOsmen</div>
+    {{-- <div class="bg-green-700 text-white py-8">SOsmen</div> --}}
 </section>
