@@ -9,6 +9,9 @@
 
     <x-beranda.news />
 
+    <x-beranda.instagram-display />
+
+
 
 
 @endsection
