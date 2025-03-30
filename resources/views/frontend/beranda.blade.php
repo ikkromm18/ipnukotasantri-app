@@ -3,9 +3,14 @@
 @section('content')
 
 
-    <x-jumbotron />
+    <x-beranda.jumbotron />
 
-    <x-description />
+    <x-beranda.description />
+
+    <x-beranda.news />
+
+    <x-beranda.instagram-display />
+
 
 
 

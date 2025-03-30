@@ -10,7 +10,7 @@
             <h1
                 class="mb-4 text-center md:text-left text-2xl leading-10 md:leading-20 w-12/12 font-extrabold tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
                 Selamat Datang Rekan's di Di Website IPNU Kota Santri</h1>
-            <p class="mb-8 text-lg md:text-2xl font-semibold text-gray-500  dark:text-gray-400">
+            <p class="mb-8 text-center text-lg md:text-2xl font-semibold text-gray-500  dark:text-gray-400">
                 IPNU Kota Santri : Ananta Digdaya Guna</p>
             <div class="flex flex-col space-y-4 sm:flex-row sm:space-y-0">
 

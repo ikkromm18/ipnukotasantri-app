@@ -1,4 +1,4 @@
-<section id="hero" class=" dark:bg-gray-900 py-20">
+<section class=" dark:bg-gray-900 py-20">
     <div class="mx-auto max-w-screen-xl flex flex-col">
         <h1 class="text-center mx-auto font-bold text-2xl px-2 md:px-0 md:text-4xl">PC IPNU KABUPATEN PEKALONGAN</h1>
         <p class="md:px-0 px-10 text-center mt-8 font-normal text-lg"><strong class="text-[#008b6b]">IPNU (Ikatan Pelajar
