@@ -7,7 +7,13 @@
 
     <x-profil.quotes />
 
+    <x-profil.sejarah-ipnu />
 
+    <x-profil.visi />
+
+    <x-profil.misi />
+
+    <x-profil.program />
 
 
 @endsection

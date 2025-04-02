@@ -1,4 +1,4 @@
-<nav class=" md:bg-transparent dark:bg-gray-900 fixed w-full z-20 top-0 start-0 py-0 md:py-4 dark:border-gray-600">
+<nav class=" md:bg-transparent dark:bg-gray-900 fixed w-full z-50 top-0 start-0 py-0 md:py-4 dark:border-gray-600">
     <div class="bg-white max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 rounded-lg shadow-sm">
         <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
             <img src="./images/header.png" class="h-8" alt="Flowbite Logo">
